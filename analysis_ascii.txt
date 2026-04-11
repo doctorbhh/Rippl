@@ -1,0 +1,40 @@
+Analyzing lib...
+
+  error - services\ble_manager.dart:140:40 - The argument type 'BluetoothConnectionState' can't be assigned to the parameter type 'BluetoothDeviceState'.  - argument_type_not_assignable
+warning - providers\app_state.dart:1:8 - Unused import: 'dart:convert'. Try removing the import directive. - unused_import
+warning - providers\app_state.dart:2:8 - Unused import: 'package:flutter_blue_plus/flutter_blue_plus.dart'. Try removing the import directive. - unused_import
+   info - models\models.dart:1:1 - Dangling library doc comment. Add a 'library' directive after the library comment. - dangling_library_doc_comments
+   info - screens\chat_screen.dart:238:22 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\chat_screen.dart:276:42 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\device_scan_screen.dart:65:28 - 'id' is deprecated and shouldn't be used. Use remoteId instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\device_scan_screen.dart:66:30 - 'name' is deprecated and shouldn't be used. Use platformName instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\device_scan_screen.dart:66:73 - 'name' is deprecated and shouldn't be used. Use platformName instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\device_scan_screen.dart:200:47 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\device_scan_screen.dart:227:42 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\device_scan_screen.dart:281:46 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\home_screen.dart:242:32 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\team_setup_screen.dart:249:48 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\team_setup_screen.dart:387:47 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\teammates_screen.dart:55:54 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\teammates_screen.dart:90:42 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\teammates_screen.dart:123:52 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\teammates_screen.dart:134:56 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - screens\teammates_screen.dart:144:58 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_constants.dart:1:1 - Dangling library doc comment. Add a 'library' directive after the library comment. - dangling_library_doc_comments
+   info - services\ble_manager.dart:17:24 - 'BluetoothDeviceState' is deprecated and shouldn't be used. Use BluetoothConnectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:22:10 - 'BluetoothDeviceState' is deprecated and shouldn't be used. Use BluetoothConnectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:56:31 - 'name' is deprecated and shouldn't be used. Use platformName instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:86:38 - 'BluetoothDeviceState' is deprecated and shouldn't be used. Use BluetoothConnectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:131:26 - 'value' is deprecated and shouldn't be used. Use lastValueStream instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:139:14 - 'state' is deprecated and shouldn't be used. Use connectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:141:19 - The type of the right operand ('BluetoothDeviceState') isn't a subtype or a supertype of the left operand ('BluetoothConnectionState'). Try changing one or both of the operands. - unrelated_type_equality_checks
+   info - services\ble_manager.dart:141:22 - 'BluetoothDeviceState' is deprecated and shouldn't be used. Use BluetoothConnectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:149:38 - 'BluetoothDeviceState' is deprecated and shouldn't be used. Use BluetoothConnectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:152:38 - 'BluetoothDeviceState' is deprecated and shouldn't be used. Use BluetoothConnectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - services\ble_manager.dart:165:38 - 'BluetoothDeviceState' is deprecated and shouldn't be used. Use BluetoothConnectionState instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - widgets\connection_status_card.dart:63:32 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - widgets\connection_status_card.dart:86:36 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - widgets\team_info_card.dart:27:51 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - widgets\team_info_card.dart:90:46 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+36 issues found.
